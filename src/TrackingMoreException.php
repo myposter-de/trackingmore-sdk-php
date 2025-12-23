@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Trackingmore;
+namespace TrackingMore;
 
 
 class TrackingMoreException extends \Exception
